@@ -25,4 +25,4 @@ verify(secret, token)
     }
   })
   .catch(console.error);
-```
+```npm install --save hcaptcha
